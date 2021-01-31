@@ -18,6 +18,24 @@
   transform: translate(0, -40px) !important;
 }
 
+.black {
+  color: #000 !important;
+}
+
+.p-top-5 {
+  padding-top: 5rem;
+}
+
+.p-bottom-5 {
+  padding-bottom: 5rem;
+}
+
+.m-top-5 {
+  margin-top: 5rem;
+}
+
+/* end custom styles */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -10268,7 +10286,7 @@ body {
   background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
 .projects-section {
