@@ -10307,7 +10307,7 @@ body {
 }
 .projects-section .project-text {
   padding: 3rem;
-  font-size: 90%;
+  font-size: 100%;
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
@@ -10322,7 +10322,7 @@ body {
 
 .projects-section .about-text {
   padding: 3rem;
-  font-size: 90%;
+  font-size: 100%;
 }
 @media (min-width: 992px) {
   .projects-section .about-text {
