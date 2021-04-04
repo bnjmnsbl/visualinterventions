@@ -38,6 +38,10 @@
   margin-right: 2rem;
 }
 
+.larger-text {
+  font-size: 2.5rem
+}
+
 /* end custom styles */
 
 :root {
