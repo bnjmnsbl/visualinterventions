@@ -10315,8 +10315,13 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 3rem;
   }
+
+  .projects-section .no-pad {
+    padding: 0rem;
+  }
+
   .projects-section .project-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
